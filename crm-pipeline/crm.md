@@ -1,4 +1,4 @@
-# Organização de CRM — SDR / Tech Sales
+# Organização de CRM — SDR (Tech Sales)
 
 ## Contexto
 Este documento descreve minha abordagem para **organização e uso de CRM** em ambientes de vendas B2B e SaaS. O CRM é tratado como uma ferramenta estratégica para gestão de relacionamento, histórico e previsibilidade comercial.
