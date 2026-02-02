@@ -1,4 +1,5 @@
 [![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
+
 ---
 
 # Cold Email — Prospecção B2B (SDR / Tech Sales)
@@ -124,4 +125,5 @@ Cold email eficiente não é sobre volume, mas sobre relevância. Uma abordagem 
 Este modelo reflete minha visão de Sales Development orientada a processo, personalização e geração de valor desde o primeiro contato.
 
 ---
+
 [![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
