@@ -1,4 +1,4 @@
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 
 ---
 
@@ -103,4 +103,4 @@ Um pipeline bem definido permite controle, previsibilidade e eficiência em vend
 
 ---
 
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
