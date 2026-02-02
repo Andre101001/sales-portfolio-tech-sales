@@ -1,4 +1,4 @@
-[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
+[**Voltar ao início** ![Voltar](../assets/back-home.png)](../README.md)
 
 ---
 
@@ -114,4 +114,4 @@ Este modelo reflete minha visão de Social Selling aplicada a Tech Sales B2B.
 
 ---
 
-[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
+[**Voltar ao início** ![Voltar](../assets/back-home.png)](../README.md)
