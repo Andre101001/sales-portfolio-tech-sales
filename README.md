@@ -18,10 +18,10 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 <p align="left">
   <a href="case-studies/prospeccao-b2b.md">
-    <img src="assets/prospeccao.png" height="240" width="240"/>
+    <img src="assets/prospeccao.png" width="240"/>
   </a>
   <a href="case-studies/qualificacao-leads.md">
-    <img src="assets/qualificacao.png" height="240" width="240"/>
+    <img src="assets/qualificacao.png" width="240"/>
   </a>
 </p>
 
@@ -31,10 +31,10 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 <p align="left">
   <a href="crm-pipeline/pipeline.md">
-    <img src="assets/pipeline.png" height="240" width="240"/>
+    <img src="assets/pipeline.png" width="240"/>
   </a>
   <a href="crm-pipeline/crm.md">
-    <img src="assets/crm.png" height="240" width="240"/>
+    <img src="assets/crm.png" width="240"/>
   </a>
 </p>
 
@@ -43,14 +43,23 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 ### ✉️ Abordagens e Scripts
 
-[![Cold Email](assets/cold-email.png)](scripts/cold-email.md)
-[![LinkedIn Approach](assets/linkedin.png)](scripts/linkedin-approach.md)
+<p align="left">
+  <a href="scripts/cold-email.md">
+    <img src="assets/cold-email.png" width="240"/>
+  </a>
+  <a href="scripts/linkedin-approach.md">
+    <img src="assets/linkedin.png" width="240"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 Métricas e Performance
 
-[![KPIs e Métricas](assets/kpis.png)](metrics/kpis-sdr.md)
+<p align="left">
+  <a href="metrics/kpis-sdr.md">
+    <img src="assets/kpis.png)" width="240"/>
+</p>
 
 ---
 
