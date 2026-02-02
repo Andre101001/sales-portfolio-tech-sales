@@ -1,4 +1,4 @@
-# sales-portfolio-tech-sales
+# Sales portfolio Tech Sales
 Sales Portfolio | SDR | Tech Sales B2B
 
 ## Resumo Profissional
