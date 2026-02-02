@@ -128,3 +128,7 @@ Os dados orientam decisões e ações práticas.
 O acompanhamento consistente de métricas e KPIs é fundamental para o sucesso em Sales Development. A análise orientada a dados permite maior previsibilidade, eficiência e impacto no funil de vendas.
 
 Este modelo reflete minha visão de Tech Sales orientada a resultados, processo e aprendizado contínuo.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
