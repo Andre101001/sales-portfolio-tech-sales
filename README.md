@@ -81,7 +81,7 @@ Meu foco está em:
 
 Quer entender melhor minha trajetória, objetivos e posicionamento profissional?
 
-👉 [Clique aqui para conhecer meu perfil](about-me.md)
+👉 [Clique aqui para conhecer meu perfil](about/about-me.md)
 
 ---
 
