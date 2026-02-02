@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Estudo de Caso — Qualificação de Leads
 
 ## Contexto
@@ -99,3 +103,8 @@ Esses dados ajudam a ajustar discurso, critérios e foco.
 A qualificação de leads é uma etapa fundamental para o sucesso em vendas B2B. Um processo bem executado reduz desperdício de tempo, melhora a experiência do potencial cliente e aumenta a eficiência do funil comercial.
 
 Este estudo de caso reflete minha visão de Sales Development orientada a escuta ativa, processo, critérios claros e geração de valor antes da venda.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
+
