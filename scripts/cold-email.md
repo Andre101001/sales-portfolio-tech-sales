@@ -1,5 +1,4 @@
-[![Voltar](../assets/back-home.png)](../README.md)
-
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 ---
 
 # Cold Email — Prospecção B2B (SDR / Tech Sales)
@@ -126,4 +125,4 @@ Este modelo reflete minha visão de Sales Development orientada a processo, pers
 
 ---
 
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
