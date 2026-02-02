@@ -1,51 +1,73 @@
-# Sales Portfolio Tech Sales
-Sales Portfolio | SDR | Tech Sales B2B
+# Sales Portfolio — SDR | Tech Sales | SaaS B2B
 
-## Resumo Profissional
-Profissional com experiência em vendas consultivas e operações comerciais, com background técnico em Análise e Desenvolvimento de Sistemas (FATEC). Este portfólio apresenta minha abordagem prática para Sales Development, Tech Sales B2B e organização de processos comerciais orientados a dados.
+![Banner](assets/banner.png)
 
----
+👋 Olá! Seja bem-vindo ao meu portfólio.
 
-## Objetivo do Portfólio
-Demonstrar, de forma estruturada e prática, meu entendimento sobre o processo de vendas B2B, incluindo prospecção, qualificação de leads, comunicação comercial, organização de pipeline e análise de métricas, com foco em empresas de tecnologia e SaaS.
+Sou profissional com experiência nas áreas **comercial e administrativa**, atuando em ambientes orientados a metas, relacionamento e resultados. Atualmente, sou graduando em **Análise e Desenvolvimento de Sistemas (FATEC)** e estou em transição estratégica para **Tech Sales / SDR / Inside Sales em empresas SaaS B2B**.
 
----
-
-## O que você vai encontrar aqui
-- Estudos de caso de prospecção e abordagem B2B  
-- Modelos de scripts de contato (e-mail e LinkedIn)  
-- Estrutura de pipeline e organização de CRM  
-- Métricas e KPIs relevantes para SDR / Inside Sales  
-- Visão pessoal sobre vendas consultivas e Tech Sales  
+Este repositório foi criado para apresentar, de forma prática e acessível, **como penso e estruturo processos de vendas**, indo além do currículo tradicional.
 
 ---
 
-## Metodologia de Vendas
-- Abordagem consultiva e orientada a valor  
-- Entendimento do problema antes da oferta  
-- Qualificação eficiente de oportunidades  
-- Comunicação clara e objetiva  
-- Organização de processos e follow-ups  
-- Decisão baseada em dados e métricas  
+## 🚀 O que você vai encontrar aqui
+
+Clique nos cards abaixo para acessar cada área do portfólio 👇
+
+### 📌 Prospecção e Qualificação
+
+[![Prospecção B2B](assets/prospeccao.png)](case-studies/prospeccao-b2b.md)
+[![Qualificação de Leads](assets/qualificacao.png)](case-studies/qualificacao-leads.md)
 
 ---
 
-## Estrutura do Portfólio
-```text
-sales-portfolio/
-│
-├── case-studies/
-│   ├── prospeccao-b2b.md
-│   ├── qualificacao-leads.md
-│
-├── crm-pipeline/
-│   ├── pipeline-modelo.md
-│
-├── metrics/
-│   ├── kpis-sdr.md
-│
-├── scripts/
-│   ├── cold-email.md
-│   ├── linkedin-approach.md
-│
-└── about-me.md
+### 🔄 Pipeline & CRM
+
+[![Pipeline de Vendas](assets/pipeline.png)](crm-pipeline/pipeline.md)
+[![Organização de CRM](assets/crm.png)](crm-pipeline/crm.md)
+
+---
+
+### ✉️ Abordagens e Scripts
+
+[![Cold Email](assets/cold-email.png)](scripts/cold-email.md)
+[![LinkedIn Approach](assets/linkedin.png)](scripts/linkedin-approach.md)
+
+---
+
+### 📊 Métricas e Performance
+
+[![KPIs e Métricas](assets/kpis.png)](metrics/kpis-sdr.md)
+
+---
+
+## 🧠 Minha visão sobre vendas em tecnologia
+
+Acredito que vendas B2B em tecnologia não se resumem a volume de contatos, mas sim a **processo, contexto e valor**. Um bom SDR entende o negócio do cliente, respeita o timing da conversa e atua como ponte estratégica entre problema e solução.
+
+Meu foco está em:
+- Prospecção estruturada  
+- Qualificação consciente  
+- Organização de pipeline  
+- Comunicação clara e consultiva  
+- Uso de métricas para melhoria contínua  
+
+---
+
+## 👤 Sobre mim
+
+Quer entender melhor minha trajetória, objetivos e posicionamento profissional?
+
+👉 [Clique aqui para conhecer meu perfil](about-me/about-me.md)
+
+---
+
+## 📫 Vamos conversar?
+
+- 🔗 LinkedIn: *www.linkedin.com/in/andre-silva-323022193*
+- 📧 Email: *andrebarbosa732@gmail.com*
+ 
+---  
+
+Estou aberto a oportunidades como **SDR / Inside Sales / Tech Sales**, especialmente em empresas **SaaS B2B** que valorizam processo, aprendizado e crescimento sustentável.
+
