@@ -1,4 +1,4 @@
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 
 ---
 
@@ -84,5 +84,5 @@ Um CRM bem organizado é essencial para escalar vendas B2B. Ele garante eficiên
 
 ---
 
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 
