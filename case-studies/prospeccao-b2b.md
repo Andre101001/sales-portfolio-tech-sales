@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Estudo de Caso — Prospecção B2B
 
 ## Contexto
@@ -107,3 +111,7 @@ Essas métricas orientam ajustes na abordagem e priorização de esforços.
 A prospecção B2B deve ser vista como um processo estratégico e consultivo, não apenas como volume de contatos. A combinação de pesquisa, personalização, comunicação clara e organização permite gerar oportunidades mais qualificadas, aumentando a eficiência do time comercial e a experiência do potencial cliente.
 
 Este estudo de caso reflete minha visão de Sales Development orientada a processo, dados e relacionamento de longo prazo.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
