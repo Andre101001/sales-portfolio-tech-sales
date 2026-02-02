@@ -1,2 +1,2 @@
 # Métricas e KPIs
-- [KPI](kpi-sdr.md)
+- [Métricas e KPIs — SDR](kpis-sdr.md)
