@@ -1,3 +1,3 @@
 # Imagens
-<img width="1536" height="1024" alt="banner_optimized 2" src="https://github.com/user-attachments/assets/0f50d24c-512e-4483-9b04-01949c788c9c" />
+<img width="1536" height="251" alt="banner" src="https://github.com/user-attachments/assets/9d8d9722-7de0-4cba-8a82-58a6ab1cdc1d" />
 
