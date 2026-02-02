@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Métricas e KPIs — SDR / Tech Sales B2B
 
 ## Contexto
