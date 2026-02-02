@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="banner_optimized 2" src="https://github.com/user-attachments/assets/0f50d24c-512e-4483-9b04-01949c788c9c" />
+# Sales Portfolio — SDR | Tech Sales | SaaS B2B
 
----
+![Banner](assets/banner.png)
 
 👋 Olá! Seja bem-vindo ao meu portfólio.
 
