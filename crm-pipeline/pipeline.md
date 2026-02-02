@@ -1,3 +1,4 @@
+[![Voltar](../assets/back-home.png)](../README.md)
 # Pipeline de Vendas — SDR (Tech Sales B2B)
 
 ## Contexto
@@ -96,3 +97,5 @@ Encerramento da oportunidade.
 
 ## Conclusão
 Um pipeline bem definido permite controle, previsibilidade e eficiência em vendas B2B. Para SDRs, ele é a base para priorização de esforços e alinhamento com o time de vendas.
+
+[![Voltar](../assets/back-home.png)](../README.md)
