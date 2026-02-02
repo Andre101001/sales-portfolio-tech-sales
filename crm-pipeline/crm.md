@@ -1,4 +1,7 @@
 [![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Organização de CRM — SDR (Tech Sales)
 
 ## Contexto
@@ -75,8 +78,11 @@ Antes de repassar um lead:
 - Próximos passos definidos  
 
 ---
-[![Voltar](../assets/back-home.png)](../README.md)
 
 ## Conclusão
 Um CRM bem organizado é essencial para escalar vendas B2B. Ele garante eficiência operacional, melhor experiência do cliente e alinhamento entre as equipes de pré-vendas e vendas.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
 
