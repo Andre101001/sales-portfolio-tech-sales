@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Sobre mim
 
 Sou profissional com mais de 4 anos de experiência nas áreas comercial e administrativa, atuando em ambientes orientados a metas, resultados e relacionamento com clientes. Ao longo da minha trajetória, desenvolvi forte habilidade em vendas consultivas, qualificação de necessidades, organização de processos e comunicação clara.
