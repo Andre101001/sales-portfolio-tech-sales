@@ -1,4 +1,4 @@
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 
 ---
 
@@ -114,4 +114,4 @@ Este estudo de caso reflete minha visão de Sales Development orientada a proces
 
 ---
 
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
