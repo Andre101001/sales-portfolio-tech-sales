@@ -16,12 +16,12 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 ### 📌 Prospecção e Qualificação
 
-<p align="center">
+<p align="left">
   <a href="case-studies/prospeccao-b2b.md">
-    <img src="assets/prospeccao.png" width="240"/>
+    <img src="assets/prospeccao.png" height="240" width="240"/>
   </a>
   <a href="case-studies/qualificacao-leads.md">
-    <img src="assets/qualificacao.png" width="240"/>
+    <img src="assets/qualificacao.png" height="240" width="240"/>
   </a>
 </p>
 
@@ -29,8 +29,15 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 ### 🔄 Pipeline & CRM
 
-[![Pipeline de Vendas](assets/pipeline.png)](crm-pipeline/pipeline.md)
-[![Organização de CRM](assets/crm.png)](crm-pipeline/crm.md)
+<p align="left">
+  <a href="crm-pipeline/pipeline.md">
+    <img src="assets/pipeline.png" height="240" width="240"/>
+  </a>
+  <a href="crm-pipeline/crm.md">
+    <img src="assets/crm.png" height="240" width="240"/>
+  </a>
+</p>
+
 
 ---
 
