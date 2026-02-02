@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Cold Email — Prospecção B2B (SDR / Tech Sales)
 
 ## Contexto
@@ -119,3 +123,7 @@ Esses indicadores orientam ajustes de assunto, mensagem e público-alvo.
 Cold email eficiente não é sobre volume, mas sobre relevância. Uma abordagem bem estruturada, respeitosa e focada no contexto do lead aumenta significativamente as chances de resposta e contribui para um funil mais saudável.
 
 Este modelo reflete minha visão de Sales Development orientada a processo, personalização e geração de valor desde o primeiro contato.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
