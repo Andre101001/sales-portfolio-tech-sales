@@ -1,4 +1,4 @@
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
 
 ---
 
@@ -131,4 +131,4 @@ Este modelo reflete minha visão de Tech Sales orientada a resultados, processo 
 
 ---
 
-[![Voltar](../assets/back-home.png)](../README.md)
+[![Voltar](../assets/back-home.png) **Voltar ao início**](../README.md)
