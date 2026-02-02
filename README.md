@@ -38,14 +38,14 @@ sales-portfolio/
 │   ├── prospeccao-b2b.md
 │   ├── qualificacao-leads.md
 │
-├── scripts/
-│   ├── cold-email.md
-│   ├── linkedin-approach.md
-│
 ├── crm-pipeline/
 │   ├── pipeline-modelo.md
 │
 ├── metrics/
 │   ├── kpis-sdr.md
+│
+├── scripts/
+│   ├── cold-email.md
+│   ├── linkedin-approach.md
 │
 └── about-me.md
