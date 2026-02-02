@@ -1,3 +1,7 @@
+[![Voltar](../assets/back-home.png)](../README.md)
+
+---
+
 # Abordagem no LinkedIn — Prospecção B2B (SDR / Tech Sales)
 
 ## Contexto
@@ -107,3 +111,7 @@ Essas métricas ajudam a otimizar a abordagem.
 A prospecção via LinkedIn deve ser humana, relevante e orientada a relacionamento. Uma abordagem estruturada, respeitosa e focada no contexto do lead aumenta significativamente as chances de conversas qualificadas e oportunidades reais de negócio.
 
 Este modelo reflete minha visão de Social Selling aplicada a Tech Sales B2B.
+
+---
+
+[![Voltar](../assets/back-home.png)](../README.md)
