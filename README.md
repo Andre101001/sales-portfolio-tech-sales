@@ -16,8 +16,14 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 
 ### 📌 Prospecção e Qualificação
 
-[![Prospecção B2B](assets/prospeccao.png)](case-studies/prospeccao-b2b.md)
-[![Qualificação de Leads](assets/qualificacao.png)](case-studies/qualificacao-leads.md)
+<p align="center">
+  <a href="case-studies/prospeccao-b2b.md">
+    <img src="assets/prospeccao.png" width="240"/>
+  </a>
+  <a href="case-studies/qualificacao-leads.md">
+    <img src="assets/qualificacao.png" width="240"/>
+  </a>
+</p>
 
 ---
 
