@@ -59,6 +59,7 @@ Clique nos cards abaixo para acessar cada área do portfólio 👇
 <p align="left">
   <a href="metrics/kpis-sdr.md">
     <img src="assets/kpis.png)" width="240"/>
+  </a>
 </p>
 
 ---
@@ -86,8 +87,12 @@ Quer entender melhor minha trajetória, objetivos e posicionamento profissional?
 
 ## 📫 Vamos conversar?
 
-- 🔗 LinkedIn: *www.linkedin.com/in/andre-silva-323022193*
-- 📧 Email: *andrebarbosa732@gmail.com*
+<img width="25" height="25" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />: *www.linkedin.com/in/andre-silva-323022193*
+
+---
+
+<img width="25" height="25" alt="gmail" src="https://github.com/user-attachments/assets/b83b8481-a4b7-450d-a98d-1e3cadc7248d" />
+: *andrebarbosa732@gmail.com*
  
 ---  
 
